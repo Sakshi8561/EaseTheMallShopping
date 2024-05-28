@@ -104,7 +104,7 @@ abstract class Sm
     }
    
 
- public class EasyTheMallShopping
+ public class EaseTheMallShopping
 
     {
         public static void main(String args[])
