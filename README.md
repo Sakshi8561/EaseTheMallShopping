@@ -56,3 +56,4 @@ Informed Decisions: Helps customers make informed choices by comparing prices an
 Time-Saving: Saves time by directing customers to the best shops based on their needs.
 Customer Satisfaction: Increases satisfaction by offering additional perks like discounts and gifts.
 EaseTheMallShopping aims to revolutionize the way people shop in malls, making it more efficient, enjoyable, and rewarding. 
+
