@@ -28,6 +28,7 @@ User Convenience:
 
 Plan your shopping trip efficiently by knowing where to find the best deals in advance.
 Save time by avoiding the need to visit every shop for comparisons.
+
 👨‍💻 Technology and Implementation:
 
 Programming Language: Java
@@ -35,6 +36,7 @@ Concepts Used: Object-Oriented Programming (OOP)
 Abstract Classes and Interfaces: To manage and display data effectively.
 Inheritance and Polymorphism: For creating specific shop and product types.
 Method Overriding: For customized billing and discount calculations.
+
 🛍 Example Implementations:
 
 Garments Comparison:
@@ -43,6 +45,7 @@ Get detailed information on quality, size, and available discounts.
 Electronics Comparison:
 Compare prices of fridges and TVs in electronic shops.
 Check for capacity, make, and type to find the best product.
+
 💼 Why It Matters:
 
 Demonstrates proficiency in software development and problem-solving.
