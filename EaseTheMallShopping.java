@@ -1,10 +1,10 @@
 import java.util.*;
 abstract class Sm
 {
-    int itemno=11;
- String desc="generic items";
+   private  int itemno=11;
+ private String desc="generic items";
  double price=500;
- int qty=5;
+ protected int qty=5;
  double amt;
  double dis=0;
  double totprice;
@@ -13,12 +13,14 @@ abstract class Sm
     }
     Sm(int itemno, String desc,double price,int qty)
     {
+	this.itemno=itemno;
         this.desc=desc;
         this.price=price;
         this.qty=qty;
     }
     abstract void calbill();
-    void sm(){
+   public void sm(){
+   system.out.println("Iteam no="+itemno);
    System.out.println("Description="+desc);
    System.out.println("Quantity ="+qty);
     }
@@ -90,8 +92,7 @@ abstract class Sm
         void displaygarments()
         {
             System.out.println("new Style shop 1nd floar");
-            System.out.println("Description="+desc);
-            System.out.println("Quantity="+qty);
+            sm();
             System.out.println("Type="+type);
             System.out.println("Size="+size);
             System.out.println("Quality="+Quality);
