@@ -327,8 +327,7 @@ class kids1 extends Sm implements Refresh
             void disPlayKids()
             {
             System.out.println(" ****Little Fair****");
-             System.out.println("Description="+desc);
-            System.out.println("Quantity="+qty);
+             sm();
             System.out.println("Type="+type);
             System.out.println("Size="+size);
             System.out.println("Quality="+Quality);
